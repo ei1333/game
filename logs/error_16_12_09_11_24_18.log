@@ -1,0 +1,12 @@
+/home/cs16067/game/MapGameController.java:61: エラー: シンボルを見つけられません
+      leftButtonAction();
+      ^
+  シンボル:   メソッド leftButtonAction()
+  場所: クラス MapGameController
+/home/cs16067/game/MapGameController.java:94: エラー: クラス MapGameControllerのメソッド upButtonActionは指定された型に適用できません。
+    upButtonAction();
+    ^
+  期待値: ActionEvent
+  検出値: 引数がありません
+  理由: 実引数リストと仮引数リストの長さが異なります
+エラー2個

@@ -1,0 +1,6 @@
+/home/cs16067/game/MapGameController.java:105: エラー: シンボルを見つけられません
+    leftButtionAction();
+    ^
+  シンボル:   メソッド leftButtionAction()
+  場所: クラス MapGameController
+エラー1個
