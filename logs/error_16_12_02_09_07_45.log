@@ -1,0 +1,3 @@
+javac: /home/cs16067/game/MapGameは無効なフラグです
+使用方法: javac <options> <source files>
+使用可能なオプションのリストについては、-helpを使用します

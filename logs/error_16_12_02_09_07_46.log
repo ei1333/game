@@ -1,0 +1,36 @@
+/home/cs16067/game/MapGameController.java:51: エラー: シンボルを見つけられません
+	int key=event.getKeyCode();
+	             ^
+  シンボル:   メソッド getKeyCode()
+  場所: タイプKeyEventの変数 event
+/home/cs16067/game/MapGameController.java:52: エラー: シンボルを見つけられません
+	if (key == KeyEvent.VK_UP){
+	                   ^
+  シンボル:   変数 VK_UP
+  場所: クラス KeyEvent
+/home/cs16067/game/MapGameController.java:53: エラー: シンボルを見つけられません
+	    upButtonAction();
+	    ^
+  シンボル:   メソッド upButtonAction()
+  場所: クラス MapGameController
+/home/cs16067/game/MapGameController.java:54: エラー: シンボルを見つけられません
+	}else if (key == KeyEvent.VK_DOWN){
+	                         ^
+  シンボル:   変数 VK_DOWN
+  場所: クラス KeyEvent
+/home/cs16067/game/MapGameController.java:56: エラー: シンボルを見つけられません
+	}else if (key == KeyEvent.VK_LEFT){
+	                         ^
+  シンボル:   変数 VK_LEFT
+  場所: クラス KeyEvent
+/home/cs16067/game/MapGameController.java:57: エラー: シンボルを見つけられません
+	    leftButtonAction();
+	    ^
+  シンボル:   メソッド leftButtonAction()
+  場所: クラス MapGameController
+/home/cs16067/game/MapGameController.java:58: エラー: シンボルを見つけられません
+	}else if (key == KeyEvent.VK_RIGHT){
+	                         ^
+  シンボル:   変数 VK_RIGHT
+  場所: クラス KeyEvent
+エラー7個
