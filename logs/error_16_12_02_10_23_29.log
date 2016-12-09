@@ -1,4 +1,0 @@
-/home/cs16067/game/MapGameController.java:75: エラー: メソッド downButtonAction(ActionEvent)はすでにクラス MapGameControllerで定義されています
-  public void downButtonAction(ActionEvent event) {
-              ^
-エラー1個

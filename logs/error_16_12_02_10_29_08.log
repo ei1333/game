@@ -1,7 +1,0 @@
-/home/cs16067/game/MapGameController.java:89: エラー: メソッド rightButtonAction()はすでにクラス MapGameControllerで定義されています
-  public void rightButtonAction(){
-              ^
-/home/cs16067/game/MapGameController.java:95: エラー: メソッド rightButtonAction(ActionEvent)はすでにクラス MapGameControllerで定義されています
-  public void rightButtonAction(ActionEvent event) {
-              ^
-エラー2個
